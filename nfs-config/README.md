@@ -8,7 +8,7 @@
 **Shared directory:** `/var/nfs/general`  
 **Mount point on Ubuntu:** `/nfs/Shared_dir`
 
-📝 **Full write-up with screenshots:** [Medium Article]()
+📝 **Full write-up with screenshots:** [Medium Article](https://medium.com/@gurungatwork98/how-to-set-up-nfs-network-file-sharing-on-rocky-linux)
 
 ---
 
