@@ -7,7 +7,7 @@
 **IP Range assigned:** `192.168.200.100 – 192.168.200.200`  
 **Server IP:** `192.168.200.5` (static)
 
-📝 **Full write-up with screenshots:** [Medium Article](https://medium.com/@gurungatwork98)
+📝 **Full write-up with screenshots:** [Medium Article](https://medium.com/@gurungatwork98/how-to-configure-a-dhcp-server-on-rocky-linux-6dbe4f1144af?postPublishedType=initial)
 
 ---
 
