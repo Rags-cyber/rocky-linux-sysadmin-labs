@@ -7,7 +7,7 @@
 **Server IP:** `192.168.200.5`  
 **Test users:** `user1`, `user2`
 
-📝 **Full write-up with screenshots:** [Medium Article](https://medium.com/@gurungatwork98)
+📝 **Full write-up with screenshots:** [Medium Article]([https://medium.com/@gurungatwork98](https://medium.com/@gurungatwork98/setting-up-a-mail-server-on-linux-a-complete-guide-to-postfix-and-dovecot-eedc64b60bdf))
 
 ---
 
