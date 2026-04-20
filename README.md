@@ -31,3 +31,100 @@ Each project includes step-by-step configuration, config files, and a detailed M
 ---
 
 ## Lab Environment
+rocky-linux-sysadmin-labs/
+│
+├── README.md
+│
+├── static-ip/
+│   ├── README.md
+│   └── enp0s3.nmconnection
+│
+├── dns-bind9/
+│   ├── README.md
+│   ├── named.conf
+│   ├── fwd.shadow.com.db
+│   └── rvs.200.168.192.db
+│
+├── dhcp/
+│   ├── README.md
+│   └── dhcpd.conf
+│
+├── nfs/
+│   ├── README.md
+│   ├── exports
+│   └── fstab
+│
+├── ftp-server/
+│   ├── README.md
+│   ├── vsftpd.conf
+│   └── chroot_list
+│
+├── ftp-ssl-tls/
+│   ├── README.md
+│   └── vsftpd.conf
+│
+├── ssh/
+│   ├── README.md
+│   └── sshd_config
+│
+├── sftp/
+│   ├── README.md
+│   └── sshd_config
+│
+├── apache-webserver/
+│   ├── README.md
+│   └── shadow.com.conf
+│
+├── email-server/
+│   ├── README.md
+│   ├── main.cf
+│   └── dovecot.conf
+│
+├── acl/
+│   └── README.md
+│
+├── samba/
+│   ├── README.md
+│   └── smb.conf
+│
+└── backup-clone/
+└── README.md
+## How to Use This Repo
+
+Each project folder contains:
+- `README.md` — full step-by-step setup guide with command explanations and config breakdowns
+- Config files ready to use as a reference for your own lab
+
+Clone the repo:
+
+```bash
+git clone https://github.com/Rags-cyber/rocky-linux-sysadmin-labs.git
+cd rocky-linux-sysadmin-labs
+```
+
+Browse any project folder and follow the README to reproduce the setup in your own lab environment.
+
+---
+
+## About
+
+I am a system administration student building hands-on skills through practical projects,
+documenting every step along the way. Each project is deployed on a real virtual lab,
+tested end-to-end, and written up in detail on Medium with full screenshots.
+
+The knowledge and foundation for these projects came from my college lectures and lecturer,
+whose guidance made all of this possible.
+
+Currently working towards: **RHCSA Certification**
+
+---
+
+## Connect
+
+- 📝 **Medium:** [medium.com/@gurungatwork98](https://medium.com/@gurungatwork98)
+- 💻 **GitHub:** [github.com/Rags-cyber/rocky-linux-sysadmin-labs](https://github.com/Rags-cyber/rocky-linux-sysadmin-labs)
+
+---
+
+*Built with 💻 on Rocky Linux | Bishal Gurung*
+
