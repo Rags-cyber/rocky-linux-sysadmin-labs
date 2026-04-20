@@ -29,6 +29,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 13 | [VM Backup — VirtualBox Clone](./backup-clone/) | Full clone, rollback strategy, snapshot best practices | [Medium](https://medium.com/@gurungatwork98) |
 
 ---
+```
 
 ## Lab Environment
 rocky-linux-sysadmin-labs/
@@ -88,7 +89,8 @@ rocky-linux-sysadmin-labs/
 │   └── smb.conf
 │
 └── backup-clone/
-└── README.md
+└── README.md```
+
 ## How to Use This Repo
 
 Each project folder contains:
