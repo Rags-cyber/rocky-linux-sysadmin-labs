@@ -22,7 +22,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 6 | [FTP with SSL/TLS](./ftp-ssl-tls/) | OpenSSL, FTPS, passive mode, FileZilla | [Medium](https://medium.com/@gurungatwork98) |
 | 7 | [SSH — Secure Shell](./ssh/) | sshd_config, root login hardening, firewall, fingerprint | [Medium](https://medium.com/@gurungatwork98) |
 | 8 | [SFTP — SSH File Transfer](./sftp/) | OpenSSH, chroot jail, internal-sftp, sftpusers group | [Medium](https://medium.com/@gurungatwork98) |
-| 9 | [Apache Web Server](./apache-webserver/) | httpd, mod_ssl, virtual hosts, HTTPS, DNS integration | [Medium](https://medium.com/@gurungatwork98) |
+| 9 | [Apache Web Server](./apache_web_server/) | httpd, mod_ssl, virtual hosts, HTTPS, DNS integration | [Medium](https://medium.com/@gurungatwork98) |
 | 10 | [Email Server — Postfix & Dovecot](./email-server/) | SMTP, IMAP, Maildir, MX records, Telnet, Thunderbird | [Medium](https://medium.com/@gurungatwork98) |
 | 11 | [ACL — Access Control Lists](./ac-configl/) | setfacl, getfacl, ACL mask, file and directory permissions | [Medium](https://medium.com/@gurungatwork98) |
 | 12 | [Samba File Sharing](./samba-config/) | SMB/CIFS, smb.conf, SELinux, smbclient | [Medium](https://medium.com/@gurungatwork98) |
