@@ -17,7 +17,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 1 | [Static IP Configuration](./static-ip/) | NetworkManager, nmcli, NIC config | [Medium](https://medium.com/@gurungatwork98) |
 | 2 | [DNS — BIND9](./dns-bind9/) | DNS zones, A records, PTR records, forward/reverse lookup | [Medium](https://medium.com/@gurungatwork98) |
 | 3 | [DHCP Server](./dhcp/) | ISC DHCP, lease management, VirtualBox NAT network | [Medium](https://medium.com/@gurungatwork98) |
-| 4 | [NFS — Network File Sharing](./nfs/) | NFS exports, mounting, fstab, real-time file sharing | [Medium](https://medium.com/@gurungatwork98) |
+| 4 | [NFS — Network File Sharing](./nfs-config/) | NFS exports, mounting, fstab, real-time file sharing | [Medium](https://medium.com/@gurungatwork98) |
 | 5 | [FTP Server (vsftpd)](./ftp-server/) | vsftpd, chroot, SELinux, lftp client | [Medium](https://medium.com/@gurungatwork98) |
 | 6 | [FTP with SSL/TLS](./ftp-ssl-tls/) | OpenSSL, FTPS, passive mode, FileZilla | [Medium](https://medium.com/@gurungatwork98) |
 | 7 | [SSH — Secure Shell](./ssh/) | sshd_config, root login hardening, firewall, fingerprint | [Medium](https://medium.com/@gurungatwork98) |
