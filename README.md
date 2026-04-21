@@ -113,7 +113,6 @@ tested end-to-end, and written up in detail on Medium with full screenshots.
 The knowledge and foundation for these projects came from my college lectures and lecturer,
 whose guidance made all of this possible.
 
-Configuration files yet to uploaded.
 
 ---
 
