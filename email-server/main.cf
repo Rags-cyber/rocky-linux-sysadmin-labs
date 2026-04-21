@@ -1,9 +1,9 @@
 # /etc/postfix/main.cf
 # Rocky Linux Postfix (SMTP) Configuration
-# Domain: techspire.edu | Server IP: 192.168.200.5
+# Domain: shadow.com | Server IP: 192.168.200.5
 
-myhostname = server.techspire.edu
-mydomain = techspire.edu
+myhostname = server.shadow.com
+mydomain = shadow.com
 myorigin = $mydomain
 
 inet_interfaces = all
