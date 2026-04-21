@@ -1,0 +1,25 @@
+# /etc/ssh/sshd_config
+# Rocky Linux SFTP with Chroot Jail
+# SFTP Group: sftpusers | Chroot Directory: /sftp
+
+Port 22
+
+# --- Authentication ---
+PermitRootLogin no
+PasswordAuthentication yes
+PermitEmptyPasswords no
+ChallengeResponseAuthentication no
+
+# --- Logging ---
+SyslogFacility AUTH
+LogLevel INFO
+
+# --- SFTP Subsystem (internal-sftp for chroot support) ---
+Subsystem sftp internal-sftp
+
+# --- Chroot Jail for sftpusers group ---
+Match Group sftpusers
+    ChrootDirectory /sftp
+    ForceCommand internal-sftp
+    AllowTcpForwarding no
+    X11Forwarding no
