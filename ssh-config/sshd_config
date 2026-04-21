@@ -1,0 +1,25 @@
+# /etc/ssh/sshd_config
+# Rocky Linux SSH Server Configuration
+
+Port 22
+
+# --- Authentication ---
+PermitRootLogin no
+PasswordAuthentication yes
+PermitEmptyPasswords no
+ChallengeResponseAuthentication no
+
+# --- Logging ---
+SyslogFacility AUTH
+LogLevel INFO
+
+# --- Session ---
+LoginGraceTime 2m
+MaxAuthTries 6
+MaxSessions 10
+
+# --- Misc ---
+X11Forwarding yes
+PrintMotd no
+AcceptEnv LANG LC_*
+Subsystem sftp /usr/lib/openssh/sftp-server
