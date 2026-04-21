@@ -85,10 +85,7 @@ rocky-linux-sysadmin-labs/
 │
 ├── samba/
 │   ├── README.md
-│   └── smb.conf
-│
-└── backup-clone/
-└── README.md```
+│   └── smb.conf```
 
 ## How to Use This Repo
 
