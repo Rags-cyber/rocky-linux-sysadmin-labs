@@ -1,0 +1,8 @@
+# /etc/exports
+# NFS Server Export Configuration
+# Rocky Linux NFS Server | Server IP: 192.168.200.5
+
+# rw         - read/write access
+# sync       - writes committed to disk before reply
+# no_subtree_check - disable subtree permission checking
+/var/nfs/general    192.168.200.100(rw,sync,no_subtree_check)
