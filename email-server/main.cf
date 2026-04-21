@@ -1,0 +1,15 @@
+# /etc/postfix/main.cf
+# Rocky Linux Postfix (SMTP) Configuration
+# Domain: techspire.edu | Server IP: 192.168.200.5
+
+myhostname = server.techspire.edu
+mydomain = techspire.edu
+myorigin = $mydomain
+
+inet_interfaces = all
+inet_protocols = all
+
+mynetworks = 192.168.200.0/24, 127.0.0.0/8
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+
+home_mailbox = Maildir/
