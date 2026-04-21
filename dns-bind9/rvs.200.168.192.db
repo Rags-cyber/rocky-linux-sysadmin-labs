@@ -1,0 +1,14 @@
+$TTL 86400
+@   IN  SOA     server.shadow.com.  root.shadow.com. (
+                2024010101  ; Serial
+                3600        ; Refresh (1 hour)
+                1800        ; Retry (30 minutes)
+                604800      ; Expire (1 week)
+                86400 )     ; Minimum TTL (1 day)
+
+; Name Server
+@   IN  NS      server.shadow.com.
+
+; PTR Records
+5   IN  PTR     server.shadow.com.
+4   IN  PTR     client.shadow.com.
