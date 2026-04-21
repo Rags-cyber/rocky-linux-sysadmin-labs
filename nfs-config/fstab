@@ -1,0 +1,2 @@
+# <server>:<remote_dir>          <local_mount>     <type>  <options>                                    <dump> <pass>
+192.168.200.5:/var/nfs/general   /nfs/Shared_dir   nfs     auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
