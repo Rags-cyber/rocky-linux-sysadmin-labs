@@ -1,0 +1,3 @@
+# Users listed here are EXCLUDED from chroot jail
+# Add one username per line
+server
