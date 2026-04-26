@@ -5,7 +5,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 
 **Author:** Bishal Gurung  
 **Medium:** [@gurungatwork98](https://medium.com/@gurungatwork98)  
-**GitHub:** [Rags-cyber](https://github.com/Rags-cyber/rocky-linux-sysadmin-labs)  
+**LinkedIn:** [Bishal Gurung](https://www.linkedin.com/in/bishal-gurung-491171292/)  
 **Environment:** Rocky Linux (Server) + Ubuntu (Client) on Oracle VirtualBox
 
 ---
@@ -26,10 +26,11 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 10 | [Email Server — Postfix & Dovecot](./email-server/) | SMTP, IMAP, Maildir, MX records, Telnet, Thunderbird | [Medium](https://medium.com/@gurungatwork98) |
 | 11 | [ACL — Access Control Lists](./acl-config/) | setfacl, getfacl, ACL mask, file and directory permissions | [Medium](https://medium.com/@gurungatwork98) |
 | 12 | [Samba File Sharing](./samba-config/) | SMB/CIFS, smb.conf, SELinux, smbclient | [Medium](https://medium.com/@gurungatwork98) |
+| 13 | [Bash Scripting](./bash-scripting/) | backup, service report, disk alert, user provisioning | [Medium](https://medium.com/p/ffe8f9e120b6) |
 
 ---
-```
 
+```
 ## Lab Environment
 rocky-linux-sysadmin-labs/
 │
@@ -85,7 +86,15 @@ rocky-linux-sysadmin-labs/
 │
 ├── samba/
 │   ├── README.md
-│   └── smb.conf```
+│   └── smb.conf
+│
+├── bash-scripting/
+│   ├── README.md
+│   ├── backup.sh
+│   ├── service_report.sh
+│   ├── user_provisioning.sh
+│   └── disk_alert.sh
+```
 
 ## How to Use This Repo
 
@@ -113,15 +122,13 @@ tested end-to-end, and written up in detail on Medium with full screenshots.
 The knowledge and foundation for these projects came from my college lectures and lecturer,
 whose guidance made all of this possible.
 
-
 ---
 
 ## Connect
 
 - 📝 **Medium:** [medium.com/@gurungatwork98](https://medium.com/@gurungatwork98)
-- 💻 **GitHub:** [github.com/Rags-cyber/rocky-linux-sysadmin-labs](https://github.com/Rags-cyber/rocky-linux-sysadmin-labs)
+- 💼 **LinkedIn:** [Bishal Gurung](https://www.linkedin.com/in/bishal-gurung-491171292/)
 
 ---
 
 *Built with 💻 on Rocky Linux | Bishal Gurung*
-
