@@ -26,7 +26,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 10 | [Email Server — Postfix & Dovecot](./email-server/) | SMTP, IMAP, Maildir, MX records, Telnet, Thunderbird | [Medium](https://medium.com/@gurungatwork98) |
 | 11 | [ACL — Access Control Lists](./acl-config/) | setfacl, getfacl, ACL mask, file and directory permissions | [Medium](https://medium.com/@gurungatwork98) |
 | 12 | [Samba File Sharing](./samba-config/) | SMB/CIFS, smb.conf, SELinux, smbclient | [Medium](https://medium.com/@gurungatwork98) |
-| 13 | [Bash Scripting](./bash-scripting/) | backup, service report, disk alert, user provisioning | [Medium](https://medium.com/p/ffe8f9e120b6) |
+| 13 | [Bash Scripting](./bash-scripting/) | backup, service report, disk alert, user provisioning | [Medium](https://medium.com/"gurungatwork98) |
 
 ---
 
