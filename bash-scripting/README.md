@@ -121,3 +121,4 @@ Add these lines:
 
 **Bishal Gurung**
 - Medium: [medium.com/@gurungatwork98](https://medium.com/@gurungatwork98)
+- Linked: [linkedin.com/in/bishal-gurung-491171292/]
