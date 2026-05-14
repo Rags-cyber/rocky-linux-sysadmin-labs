@@ -27,6 +27,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 11 | [ACL — Access Control Lists](./acl-config/) | setfacl, getfacl, ACL mask, file and directory permissions | [Medium](https://medium.com/@gurungatwork98) |
 | 12 | [Samba File Sharing](./samba-config/) | SMB/CIFS, smb.conf, SELinux, smbclient | [Medium](https://medium.com/@gurungatwork98) |
 | 13 | [Bash Scripting](./bash-scripting/) | backup, service report, disk alert, user provisioning | [Medium](https://medium.com/@gurungatwork98) |
+| 14 | [Service Management](./service_management/) | systemd, systemctl, target, services, create own service | [Medium](https://medium.com/@gurungatwork98) |
 
 ---
 
@@ -94,6 +95,9 @@ rocky-linux-sysadmin-labs/
 │   ├── service_report.sh
 │   ├── user_provisioning.sh
 │   └── disk_alert.sh
+|
+├── service_management/
+│   └── README.md
 ```
 
 ## How to Use This Repo
