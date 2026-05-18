@@ -100,7 +100,7 @@ rocky-linux-sysadmin-labs/
 ├── service_management/
 │   └── README.md
 │
-├── bash-scripting/
+├── prometheus-grafana/
 │   ├── README.md
 │   ├── grafana.repo
 │   ├── node_exporter.service
