@@ -99,6 +99,13 @@ rocky-linux-sysadmin-labs/
 |
 ├── service_management/
 │   └── README.md
+│
+├── bash-scripting/
+│   ├── README.md
+│   ├── grafana.repo
+│   ├── node_exporter.service
+│   ├── prometheus.service
+│   └── prometheus.yml
 ```
 
 ## How to Use This Repo
