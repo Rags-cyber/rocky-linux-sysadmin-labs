@@ -142,5 +142,3 @@ whose guidance made all of this possible.
 - 💼 **LinkedIn:** [Bishal Gurung](https://www.linkedin.com/in/bishal-gurung-491171292/)
 
 ---
-
-*Built with 💻 on Rocky Linux | Bishal Gurung*
