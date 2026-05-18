@@ -28,6 +28,7 @@ Each project includes step-by-step configuration, config files, and a detailed M
 | 12 | [Samba File Sharing](./samba-config/) | SMB/CIFS, smb.conf, SELinux, smbclient | [Medium](https://medium.com/@gurungatwork98) |
 | 13 | [Bash Scripting](./bash-scripting/) | backup, service report, disk alert, user provisioning | [Medium](https://medium.com/@gurungatwork98) |
 | 14 | [Service Management](./service_management/) | systemd, systemctl, target, services, create own service | [Medium](https://medium.com/@gurungatwork98) |
+| 15 | [Server Health Monitoring](./prometheus-grafana/) | grafana, prometheus, node exporter | [Medium](https://medium.com/@gurungatwork98) |
 
 ---
 
